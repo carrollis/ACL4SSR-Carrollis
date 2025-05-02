@@ -3,3 +3,5 @@
 
 # 政府政务
 DOMAIN-SUFFIX,gov.cn
+# 小米天气
+DOMAIN-SUFFIX,weatherapi.market.xiaomi.com
