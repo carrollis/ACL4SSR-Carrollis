@@ -1,0 +1,9 @@
+# 内容：IPTV全球频道(特定区域节点)
+# 适用：出海规则
+
+# 澳门节点(澳门家庭宽带)
+DOMAIN-SUFFIX,live3.tdm.com.mo
+DOMAIN-SUFFIX,locallive.tdm.com.mo
+
+# 美国节点
+DOMAIN-SUFFIX,tvpass.org
