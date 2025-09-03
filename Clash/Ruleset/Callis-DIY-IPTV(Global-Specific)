@@ -12,3 +12,14 @@ DOMAIN-SUFFIX,sport.pendy.dpdns.org
 DOMAIN-SUFFIX,docker.livednow.dpdns.org
 DOMAIN-SUFFIX,4gtv.livednow.dpdns.org
 DOMAIN-SUFFIX,iptv.mydiver.eu.org
+
+# 4GTV(台湾节点)
+DOMAIN-SUFFIX,app-measurement.com
+DOMAIN-SUFFIX,ftv.com.tw
+DOMAIN-SUFFIX,4gtv.tv
+DOMAIN-SUFFIX,hinet.net
+DOMAIN-SUFFIX,onead.com.tw
+DOMAIN-SUFFIX,nowe.com
+DOMAIN-SUFFIX,now.com
+DOMAIN-SUFFIX,now-tv.com
+DOMAIN-SUFFIX,nowestatic.com
