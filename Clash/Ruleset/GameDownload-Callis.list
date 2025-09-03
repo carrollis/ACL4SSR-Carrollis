@@ -3,7 +3,6 @@
 DOMAIN-SUFFIX,k.gjacky.com
 DOMAIN-SUFFIX,prod.dl.playstation.net
 DOMAIN-SUFFIX,dl.playstation.net
-
 DOMAIN-SUFFIX,dl.steam.clngaa.com
 DOMAIN-SUFFIX,dl.steam.ksyna.com
 DOMAIN-SUFFIX,st.dl.bscstorage.net
@@ -12,3 +11,6 @@ DOMAIN-SUFFIX,st.dl.pinyuncloud.com
 DOMAIN-SUFFIX,assets1.xboxlive.com
 DOMAIN-SUFFIX,assets2.xboxlive.com
 DOMAIN-SUFFIX,assets3.xboxlive.com
+
+# Steam下载
+DOMAIN-SUFFIX,gstore.val.manlaxy.com
