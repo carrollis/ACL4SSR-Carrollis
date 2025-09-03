@@ -10,4 +10,8 @@ IP-CIDR,3.230.129.93/23,no-resolve
 IP-CIDR,3.211.157.115/23,no-resolve
 IP-CIDR,3.225.92.8/23,no-resolve
 IP-CIDR,54.160.93.182/23,no-resolve
+
+kic.netflixvoice.lgtvcommon.com
+IP-CIDR,119.31.191.0/24
+notifications.netflix.com
 # IP-CIDR,116.230.144.131/23,no-resolve
