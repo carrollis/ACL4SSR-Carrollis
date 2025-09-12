@@ -1,0 +1,6 @@
+# Windows系统Microsoft Store无法打开/下载/更新软件应用的解决方案
+
+DOMAIN,www.msftconnecttest.com
+DOMAIN-SUFFIX,dl.delivery.mp.microsoft.com
+DOMAIN-SUFFIX,sls.update.microsoft.com
+DOMAIN-SUFFIX,windowsupdate.com
