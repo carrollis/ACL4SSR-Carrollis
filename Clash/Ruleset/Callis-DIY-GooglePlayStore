@@ -1,4 +1,6 @@
-services.googleapis.cn
-googleapis.cn
-xn--ngstr-lra8j.com
-clientservices.googleapis.comm
+# 谷歌商店登录
+
+DOMAIN-SUFFIX,services.googleapis.cn
+DOMAIN-SUFFIX,googleapis.cn
+DOMAIN-SUFFIX,xn--ngstr-lra8j.com
+DOMAIN-SUFFIX,clientservices.googleapis.comm
