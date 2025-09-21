@@ -1,7 +1,7 @@
 # 全球流媒体登录认证
 
 # IPTV流媒体域名
-http://cf.cdn-959.me
+DOMAIN,cdn-959.me
 
 # Netflix
 DOMAIN-SUFFIX,nrdp60-appboot.netflix.com
