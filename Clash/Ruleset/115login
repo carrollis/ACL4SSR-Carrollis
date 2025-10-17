@@ -10,9 +10,9 @@ DOMAIN-SUFFIX,115cdn.com
 DOMAIN-SUFFIX,115cdn.net
 DOMAIN-SUFFIX,115img.com
 DOMAIN-SUFFIX,116cd.cn
-# DOMAIN-SUFFIX,trace.qq.com
-# DOMAIN-SUFFIX,connect.qq.com
-# DOMAIN-SUFFIX,uplb.115.com
+DOMAIN-SUFFIX,trace.qq.com
+DOMAIN-SUFFIX,connect.qq.com
+DOMAIN-SUFFIX,uplb.115.com
 DOMAIN-SUFFIX,116cd.com
 DOMAIN-SUFFIX,116cd.net
 DOMAIN-SUFFIX,anxia.com
