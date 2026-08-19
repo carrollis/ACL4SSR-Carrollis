@@ -1,8 +1,20 @@
 # CDN媒体文件网络
 
+# Twitter/X
 DOMAIN-SUFFIX,video.twimg.com
 DOMAIN-SUFFIX,pbs.twimg.com
+
+# Facebook 
 DOMAIN-SUFFIX,fbcdn.net
+
+# Linkedin
 DOMAIN-SUFFIX,licdn.com
+
+# Youtube
 DOMAIN-SUFFIX,googlevideo.com
+
+# Google Play Store
 DOMAIN-SUFFIX,xn--ngstr-lra8j.com
+
+# Netflix
+DOMAIN-SUFFIX,nflxvideo.net
