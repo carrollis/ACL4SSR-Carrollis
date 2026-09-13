@@ -18,3 +18,6 @@ DOMAIN-SUFFIX,xn--ngstr-lra8j.com
 
 # Netflix
 DOMAIN-SUFFIX,nflxvideo.net
+
+# Github Docker下载与镜像服务器
+DOMAIN-SUFFIX,huecker.io
