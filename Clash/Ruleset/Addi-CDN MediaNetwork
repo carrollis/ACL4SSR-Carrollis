@@ -13,10 +13,11 @@ DOMAIN-SUFFIX,licdn.com
 # Youtube
 DOMAIN-SUFFIX,googlevideo.com
 
-# Google Play Store
+# Google Play Store(安卓移动设备)
 DOMAIN-SUFFIX,xn--ngstr-lra8j.com
-DOMAIN-SUFFIX,gvt1.com
 
+# Google Play Store(安卓TV设备)
+DOMAIN-SUFFIX,gvt1.com
 
 # Netflix
 DOMAIN-SUFFIX,nflxvideo.net
