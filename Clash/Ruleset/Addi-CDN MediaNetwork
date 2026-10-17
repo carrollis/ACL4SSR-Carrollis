@@ -27,6 +27,9 @@ DOMAIN-SUFFIX,huecker.io
 
 # BBC Sounds
 DOMAIN-SUFFIX,aod-dash-uk-live.akamaized.net
+DOMAIN-SUFFIX,as-dash-uk-live.akamaized.net
+
+
 
 # Akamaized流媒体cdn网站
 DOMAIN-SUFFIX,akamaized.net
