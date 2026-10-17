@@ -24,3 +24,6 @@ DOMAIN-SUFFIX,nflxvideo.net
 
 # Github Docker下载与镜像服务器
 DOMAIN-SUFFIX,huecker.io
+
+# BBC Sounds
+DOMAIN-SUFFIX,aod-dash-uk-live.akamaized.net
