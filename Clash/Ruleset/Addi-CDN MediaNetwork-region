@@ -1,0 +1,6 @@
+# CDN媒体文件网络(区分节点地区)
+
+# BBC Sounds
+DOMAIN-SUFFIX,aod-dash-uk-live.akamaized.net
+DOMAIN-SUFFIX,as-dash-uk-live.akamaized.net
+DOMAIN-SUFFIX,live.cf.md.bbci.co.uk
