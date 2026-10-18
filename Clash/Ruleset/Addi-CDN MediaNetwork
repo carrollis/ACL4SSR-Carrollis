@@ -1,4 +1,4 @@
-# CDN媒体文件网络
+# CDN媒体文件网络(不区分节点地区)
 
 # Twitter/X
 DOMAIN-SUFFIX,video.twimg.com
@@ -24,14 +24,6 @@ DOMAIN-SUFFIX,nflxvideo.net
 
 # Github Docker下载与镜像服务器
 DOMAIN-SUFFIX,huecker.io
-
-# BBC Sounds
-DOMAIN-SUFFIX,aod-dash-uk-live.akamaized.net
-DOMAIN-SUFFIX,as-dash-uk-live.akamaized.net
-DOMAIN-SUFFIX,live.cf.md.bbci.co.uk
-
-# Akamaized流媒体cdn网站
-DOMAIN-SUFFIX,akamaized.net
 
 # 应用商店更新
 DOMAIN-SUFFIX,cdn-static.aptoide.com
