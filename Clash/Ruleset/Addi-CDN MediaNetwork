@@ -32,3 +32,6 @@ DOMAIN-SUFFIX,live.cf.md.bbci.co.uk
 
 # Akamaized流媒体cdn网站
 DOMAIN-SUFFIX,akamaized.net
+
+# 应用商店更新
+DOMAIN-SUFFIX,cdn-static.aptoide.com
