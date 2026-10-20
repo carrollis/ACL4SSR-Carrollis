@@ -13,6 +13,18 @@ DOMAIN-SUFFIX,licdn.com
 # Youtube
 DOMAIN-SUFFIX,googlevideo.com
 
+# Amazon Prime
+DOMAIN-SUFFIX,aiv-cdn.net
+DOMAIN-SUFFIX,pv-cdn.net
+DOMAIN-SUFFIX,avodmp4s3ww-a.akamaihd.net
+
+# Disney集团及旗下
+DOMAIN-SUFFIX,dilcdn.com
+DOMAIN-SUFFIX,cdn.optimizely.com
+DOMAIN-SUFFIX,espncdn.com
+DOMAIN-SUFFIX,hotstar-cdn.net
+
+
 # Google Play Store(安卓移动设备)
 DOMAIN-SUFFIX,xn--ngstr-lra8j.com
 
