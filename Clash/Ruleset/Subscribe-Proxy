@@ -8,3 +8,4 @@ DOMAIN-SUFFIX,perlnk.com
 DOMAIN-SUFFIX,bat666.xyz
 DOMAIN-SUFFIX,usuxcloud.com
 DOMAIN-SUFFIX,nowhere.ytoo.online
+IP-CIDR,133.167.46.90/32,no-resolve
