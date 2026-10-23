@@ -47,3 +47,6 @@ DOMAIN-SUFFIX,pool.apk.aptoide.com
 
 # 其他CDN
 DOMAIN-SUFFIX,doppiocdn.com
+
+#游戏更新-PUBG吃鸡
+DOMAIN-SUFFIX,k.gjacky.com
