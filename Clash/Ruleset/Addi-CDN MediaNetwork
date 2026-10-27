@@ -44,6 +44,7 @@ DOMAIN-SUFFIX,raw.githubusercontent.com
 
 # NAS-Docker仓库镜像
 DOMAIN-SUFFIX,image-mirror.r2.daocloud.vip
+DOMAIN-SUFFIX,storage.googleapis.com
 
 # 应用商店更新
 DOMAIN-SUFFIX,cdn-static.aptoide.com
@@ -54,3 +55,8 @@ DOMAIN-SUFFIX,doppiocdn.com
 
 #游戏更新-PUBG吃鸡
 DOMAIN-SUFFIX,k.gjacky.com
+
+# 媒体库刮削
+DOMAIN-SUFFIX,javlibrary.com
+DOMAIN-SUFFIX,themoviedb.org
+DOMAIN-SUFFIX,thetvdb.com
