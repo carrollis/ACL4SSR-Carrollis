@@ -42,6 +42,9 @@ DOMAIN-SUFFIX,huecker.io
 DOMAIN-SUFFIX,release-assets.githubusercontent.com
 DOMAIN-SUFFIX,raw.githubusercontent.com
 
+# NAS-Docker仓库镜像
+DOMAIN-SUFFIX,image-mirror.r2.daocloud.vip
+
 # 应用商店更新
 DOMAIN-SUFFIX,cdn-static.aptoide.com
 DOMAIN-SUFFIX,pool.apk.aptoide.com
