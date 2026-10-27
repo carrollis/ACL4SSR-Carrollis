@@ -40,6 +40,7 @@ DOMAIN-SUFFIX,huecker.io
 
 # Github文件下载
 DOMAIN-SUFFIX,release-assets.githubusercontent.com
+DOMAIN-SUFFIX,raw.githubusercontent.com
 
 # 应用商店更新
 DOMAIN-SUFFIX,cdn-static.aptoide.com
