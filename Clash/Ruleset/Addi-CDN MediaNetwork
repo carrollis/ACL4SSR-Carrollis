@@ -50,13 +50,6 @@ DOMAIN-SUFFIX,storage.googleapis.com
 DOMAIN-SUFFIX,cdn-static.aptoide.com
 DOMAIN-SUFFIX,pool.apk.aptoide.com
 
-# Cloudflare
-# api.cloudflare.com
-# cp.cloudflare.com
-# a.nel.cloudflare.com
-# challenges.cloudflare.com
-
-
 #游戏更新-PUBG吃鸡
 DOMAIN-SUFFIX,k.gjacky.com
 
