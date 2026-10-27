@@ -25,7 +25,6 @@ DOMAIN-SUFFIX,cdn.optimizely.com
 DOMAIN-SUFFIX,espncdn.com
 DOMAIN-SUFFIX,hotstar-cdn.net
 
-
 # Google Play Store(安卓移动设备)
 DOMAIN-SUFFIX,xn--ngstr-lra8j.com
 
@@ -51,8 +50,12 @@ DOMAIN-SUFFIX,storage.googleapis.com
 DOMAIN-SUFFIX,cdn-static.aptoide.com
 DOMAIN-SUFFIX,pool.apk.aptoide.com
 
-# 其他CDN
-DOMAIN-SUFFIX,doppiocdn.com
+# Cloudflare
+# api.cloudflare.com
+# cp.cloudflare.com
+# a.nel.cloudflare.com
+# challenges.cloudflare.com
+
 
 #游戏更新-PUBG吃鸡
 DOMAIN-SUFFIX,k.gjacky.com
@@ -61,3 +64,6 @@ DOMAIN-SUFFIX,k.gjacky.com
 DOMAIN-SUFFIX,javlibrary.com
 DOMAIN-SUFFIX,themoviedb.org
 DOMAIN-SUFFIX,thetvdb.com
+
+# 其他CDN
+DOMAIN-SUFFIX,doppiocdn.com
