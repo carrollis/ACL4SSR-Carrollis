@@ -44,6 +44,7 @@ DOMAIN-SUFFIX,raw.githubusercontent.com
 
 # NAS-Docker仓库镜像
 DOMAIN-SUFFIX,image-mirror.r2.daocloud.vip
+DOMAIN-SUFFIX,daocloud.vip
 DOMAIN-SUFFIX,storage.googleapis.com
 
 # 应用商店更新
