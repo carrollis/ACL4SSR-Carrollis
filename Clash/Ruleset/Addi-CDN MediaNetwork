@@ -31,6 +31,9 @@ DOMAIN-SUFFIX,xn--ngstr-lra8j.com
 # Google Play Store(安卓TV设备)
 DOMAIN-SUFFIX,gvt1.com
 
+# Google系软件下载
+DOMAIN-SUFFIX,dl.google.com
+
 # Netflix
 DOMAIN-SUFFIX,nflxvideo.net
 
