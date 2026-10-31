@@ -64,6 +64,11 @@ DOMAIN-SUFFIX,k.gjacky.com
 DOMAIN-SUFFIX,javlibrary.com
 DOMAIN-SUFFIX,themoviedb.org
 DOMAIN-SUFFIX,thetvdb.com
+DOMAIN-SUFFIX,mgstage.com
+
 
 # 其他CDN
 DOMAIN-SUFFIX,doppiocdn.com
+
+# 其他网页
+DOMAIN-SUFFIX,avmoo.websire
