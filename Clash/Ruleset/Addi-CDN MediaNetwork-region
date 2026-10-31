@@ -1,6 +1,15 @@
 # CDN媒体文件网络(区分节点地区)
 
-# BBC Sounds
+# BBC Sounds-英国
 DOMAIN-SUFFIX,aod-dash-uk-live.akamaized.net
 DOMAIN-SUFFIX,as-dash-uk-live.akamaized.net
 DOMAIN-SUFFIX,live.cf.md.bbci.co.uk
+
+# AbemaTV-日本
+DOMAIN,abematv.akamaized.net
+DOMAIN,ds-linear-abematv.akamaized.net
+DOMAIN,ds-vod-abematv.akamaized.net
+DOMAIN,linear-abematv.akamaized.net
+DOMAIN,vod-abematv.akamaized.net
+DOMAIN-KEYWORD,abematv.akamaized.net
+DOMAIN-SUFFIX,abematv.akamaized.net
