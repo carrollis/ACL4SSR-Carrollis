@@ -2,6 +2,7 @@
 DOMAIN,substore-front.planet-teddy.org
 DOMAIN,substore-rear.planet-teddy.org
 DOMAIN-SUFFIX,lyntuio.com
+DOMAIN-SUFFIX,flyintpro09.com
 DOMAIN-SUFFIX,5bx6h.net
 DOMAIN-SUFFIX,efanyunapi.com
 DOMAIN-SUFFIX,perlnk.com
@@ -9,5 +10,10 @@ DOMAIN-SUFFIX,bat666.xyz
 DOMAIN-SUFFIX,filmtoday.top
 DOMAIN-SUFFIX,vistart.art
 DOMAIN-SUFFIX,usuxcloud.com
+DOMAIN-SUFFIX,yvpn.cc
+DOMAIN-SUFFIX,yunkai002.top
+DOMAIN-SUFFIX,popcornlab.de
 DOMAIN-SUFFIX,nowhere.ytoo.online
+DOMAIN-SUFFIX,liangxin.xyz
 IP-CIDR,133.167.46.90/32,no-resolve
+IP-CIDR,144.34.150.72/4600,no-resolve
