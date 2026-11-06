@@ -68,6 +68,8 @@ DOMAIN-SUFFIX,themoviedb.org
 DOMAIN-SUFFIX,thetvdb.com
 DOMAIN-SUFFIX,mgstage.com
 
+# Shield TV系统升级
+DOMAIN-SUFFIX,ota-downloads.nvidia.com
 
 # 其他CDN
 DOMAIN-SUFFIX,doppiocdn.com
