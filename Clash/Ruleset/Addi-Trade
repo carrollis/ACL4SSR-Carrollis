@@ -3,7 +3,3 @@
 # Longbridge长桥
 DOMAIN-SUFFIX,longbridgeapp.com
 DOMAIN-SUFFIX,lbkrs.com
-
-# Tableau数据系统
-DOMAIN-SUFFIX,tableau.com,DIRECT
-DOMAIN-SUFFIX,salesforce.com,DIRECT
