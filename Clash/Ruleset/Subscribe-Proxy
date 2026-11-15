@@ -1,6 +1,8 @@
 # 内容：机场订阅-代理
 DOMAIN,substore-front.planet-teddy.org
 DOMAIN,substore-rear.planet-teddy.org
+DOMAIN,sub.planet-teddy.org
+DOMAIN,subconverter.planet-teddy.org
 DOMAIN-SUFFIX,lyntuio.com
 DOMAIN-SUFFIX,flyintpro09.com
 DOMAIN-SUFFIX,5bx6h.net
